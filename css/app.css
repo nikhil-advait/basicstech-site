@@ -1,3 +1,8 @@
 .custom-text {
     line-height: 150%;
 }
+
+.cust-img-thumb {
+    width: 300px;
+    height: 300px;
+}
