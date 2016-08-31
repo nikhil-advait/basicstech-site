@@ -6,3 +6,31 @@
     width: 300px;
     height: 300px;
 }
+
+.contact-area {
+    position: absolute;
+    clear:both;
+    left: 16%
+}
+
+@media(min-width: 768px) {
+    .contact-area {
+        position: absolute;
+        clear:both;
+        left: 35%
+    }
+}
+
+.contact-spacing {
+    display: none;
+}
+
+@media(min-width: 1200px) {
+    .contact-spacing {
+        display: inherit;
+    }
+}
+
+.blue-links li a {
+    color: #337ab7
+}
