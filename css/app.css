@@ -10,7 +10,7 @@
 .contact-area {
     position: absolute;
     clear:both;
-    left: 16%
+    left: 10%
 }
 
 @media(min-width: 768px) {
