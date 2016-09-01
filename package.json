@@ -1,12 +1,11 @@
 {
-  "name": "agency",
-  "title": "Agency",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/agency",
-  "author": "Start Bootstrap",
+  "name": "BasicsTech-Site",
+  "title": "BasicsTech",
+  "version": "1.0",
+  "homepage": "http://basicstech.in",
+  "author": "Nikhil Yeole",
   "license": {
-    "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "type": "MIT"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -20,9 +19,5 @@
     "gulp-sass": "^2.3.2",
     "gulp-uglify": "^1.5.4",
     "jquery": "^1.11.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   }
 }
