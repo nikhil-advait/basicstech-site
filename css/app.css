@@ -27,7 +27,12 @@ a {
         clear:both;
         left: 35%
     }
+
+    .photo-me{
+        margin-left: 396px;
+    }
 }
+
 
 .contact-spacing {
     display: none;
@@ -77,3 +82,4 @@ a {
     50% { opacity: 0.0; }
     100% { opacity: 1.0; }
 }
+
